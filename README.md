@@ -47,7 +47,7 @@ license so that anyone with an interest can see how things were done back
 then, and the crazy coding styles that sometimes "seemed-like-a-good-idea"!
 
 The source code has been modifed from the 1998 version to remove a proprietary
-header that included NDA'd information. It has be replaced with <stdint.h>.
+header that included NDA'd information. It has be replaced with "stdint.h".
 
 A Visual Studio 2010 "solution" has been provided to compile the code.
 
